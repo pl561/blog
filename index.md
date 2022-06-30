@@ -1,5 +1,9 @@
 ---
-title: "Welcome to my blog"
+A blog mainly about Deep Learning and Computer Vision
 ---
 
-I'm glad you are here. I plan to talk about ...
+# AI/CV content
+
+- 1
+- 2
+- 3
