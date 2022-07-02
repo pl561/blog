@@ -1,5 +1,6 @@
 ---
 layout: home
+title: Main page
 ---
 
 ## Object segmentation
