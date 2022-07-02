@@ -3,8 +3,11 @@ layout: home
 title: A blog mainly about Deep Learning and Computer Vision
 ---
 
-# AI/CV content
+## Object segmentation
 
-- 1
-- 2
-- 3
+
+## Object detection
+
+
+## Pose estimation
+
