@@ -1,5 +1,6 @@
 ---
-A blog mainly about Deep Learning and Computer Vision
+layout: home
+title: A blog mainly about Deep Learning and Computer Vision
 ---
 
 # AI/CV content
